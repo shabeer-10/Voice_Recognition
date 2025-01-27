@@ -17,6 +17,7 @@ To install the required library, run:
 pip install SpeechRecognition
 ```
 
+
 ## How to Use
 ### 1.Clone this repository:
 ```bash
@@ -31,16 +32,20 @@ python voice_recognition.py
 
 ### 3.Speak into your microphone when prompted.
 
+
 ## Error Handling
 -If the audio is unclear, the program will inform you: `Sorry, I could not understand the audio.`
 -If there's an issue with the API or network: `Could not request results; check your network connection.`
+
 
 ## Notes
 -Ensure your microphone is enabled and functioning.
 -The Google Web Speech API requires an active internet connection.
 
+
 ## Contributions
 Feel free to fork the repository, improve the code, and submit a pull request.
+
 
 ## License
 This project is licensed under the MIT License.
